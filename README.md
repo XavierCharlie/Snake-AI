@@ -20,4 +20,4 @@ Hit "Apply"
 # Game Demo
 ![alt text](https://github.com/XavierCharlie/Snake-AI/blob/main/Screenshot%20from%202021-01-11%2002-11-55.png)
 
-## I have also uploaded a video demo of the game
+## I have also uploaded a video demo of the game with the files
